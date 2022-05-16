@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Tools Shop</string>
+    <string name="image_logo">Image logo</string>
+
+    <string-array name="tools">
+        <item>Perforator</item>
+        <item>Angle grinder</item>
+        <item>Jigsaw</item>
+    </string-array>
+</resources>
